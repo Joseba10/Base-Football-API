@@ -1,0 +1,149 @@
+Link:https://api.myjson.com/bins/oimvc
+
+{
+  "name": "English Premier League 2018/19",
+  "rounds": [
+    {
+      "name": "Jornada 1",
+      "date": "2018-08-10",
+      "team1": "Manchester United",
+      "team2": "Leicester City",
+      "score1": 2,
+      "score2": 1
+    },
+    {
+      "date": "2018-08-11",
+      "team1": "Newcastle United",
+      "team2": "Tottenham Hotspur",
+      "score1": 1,
+      "score2": 2
+    },
+    {
+      "date": "2018-08-11",
+      "team1": "Watford",
+      "team2": "Brighton and Hove Albion",
+      "score1": 2,
+      "score2": 0
+    },
+    {
+      "date": "2018-08-11",
+      "team1": "Huddersfield town",
+      "team2": "Chelsea",
+      "score1": 0,
+      "score2": 3
+    },
+    {
+      "date": "2018-08-11",
+      "team1": "Fulham",
+      "team2": "Crystal Palace",
+      "score1": 0,
+      "score2": 2
+    },
+    {
+      "date": "2018-08-11",
+      "team1": "Bournemouth",
+      "team2": "Cardiff City",
+      "score1": 2,
+      "score2": 0
+    },
+    {
+      "date": "2018-08-12",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Everton",
+      "score1": 2,
+      "score2": 2
+    },
+    {
+      "date": "2018-08-12",
+      "team1": "Southampton",
+      "team2": "Burnley",
+      "score1": 0,
+      "score2": 0
+    },
+    {
+      "date": "2018-08-12",
+      "team1": "Liverpool",
+      "team2": "Westham Utd",
+      "score1": 4,
+      "score2": 0
+    },
+    {
+      "date": "2018-08-12",
+      "team1": "Arsenal",
+      "team2": "Manchester City",
+      "score1": 0,
+      "score2": 2
+    },
+    {
+      "name": "Jornada 2",
+      "date": "2018-08-18",
+      "team1": "Cardiff City",
+      "team2": "Newcastle United",
+      "score1": 0,
+      "score2": 0
+    },
+    {
+      "date": "2018-08-18",
+      "team1": "Westham United",
+      "team2": "Bournemouth",
+      "score1": 1,
+      "score2": 2
+    },
+    {
+      "date": "2018-08-18",
+      "team1": "Tottenham Hotspur",
+      "team2": "Fulham",
+      "score1": 3,
+      "score2": 1
+    },
+    {
+      "date": "2018-08-18",
+      "team1": "Leicester City",
+      "team2": "Wolverhampton Wanderers",
+      "score1": 2,
+      "score2": 0
+    },
+    {
+      "date": "2018-08-18",
+      "team1": "Everton",
+      "team2": "Southampton",
+      "score1": 2,
+      "score2": 1
+    },
+    {
+      "date": "2018-08-18",
+      "team1": "Chelsea",
+      "team2": "Arsenal",
+      "score1": 3,
+      "score2": 2
+    },
+    {
+      "date": "2018-08-19",
+      "team1": "Manchester City",
+      "team2": "Huddersfield Town",
+      "score1": 6,
+      "score2": 1
+    },
+    {
+      "date": "2018-08-19",
+      "team1": "Burnley",
+      "team2": "Watford",
+      "score1": 1,
+      "score2": 3
+    },
+    {
+      "date": "2018-08-19",
+      "team1": "Brighton and Hove Albion",
+      "team2": "Manchester United",
+      "score1": 3,
+      "score2": 2
+    },
+    {
+      "date": "2018-08-20",
+      "team1": "Crystal Palace",
+      "team2": "Liverpool",
+      "score1": 0,
+      "score2": 0
+    }
+  ]
+}
